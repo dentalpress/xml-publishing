@@ -1,18 +1,18 @@
 xml-publishing
 ==============
 
-Aprendizado e produção de conteúdo para xml publishin
+Aprendizado e produção de conteúdo para xml publishing
 
 Objetivo: 
-Criar xml-publishing de forma altomatizada ultilizando do software InDesign para a copilacão dos textos e exportação
-do conteúdo como finalização do processo de editoração.
+Criar xml-publishing de forma automatizada utilizando do software InDesign para a compilacão dos textos e exportação
+do conteúdo na finalização do processo de editoração.
 
 Metodo:
 Etapa 1 - XML-PUBLISHER
 	Etapa 1.1 - Consiste no aprendizado da tecnologia
 		Parte 1: Conhecar a tecnologia e as aplicações e os termos usados
 		Parte 2: Criar modelo de estudo
-		Parte 3: Dicecar modelo e mapeando e padronizando para uso proprio
+		Parte 3: Dissecar modelo e executar mapeamento, padronizando para uso próprio
 
 	Etapa 1.2 - Consiste no teste e aplicação
 		Parte 1: Criar ambiente de teste separando os materias
@@ -42,6 +42,6 @@ Etapa 3 - XML-PUBLISHER & INDESIGN
 		Parte 3: Valido o resultado
 
 Etapa 4 - PRODUÇÃO
-	Parte 1: Annalizar extrutura dos artigos
-	Parte 2: Produzir e narrar a excecução
+	Parte 1: Analizar estrutura dos artigos
+	Parte 2: Produzir e narrar a execução
 	
